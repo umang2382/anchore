@@ -148,7 +148,7 @@ anchoreGlobal:
 
   # Sets the password & email address for the default anchore-engine admin user.
   defaultAdminPassword: foobar
-  defaultAdminEmail: security.engineers@bedbath.com
+  defaultAdminEmail: security.engineers
 
   saml:
     # Locations for keys used for signing and encryption. Only one of 'secret' or 'public_key_path'/'private_key_path' needs to be set. If all are set then the keys take precedence over the secret value
